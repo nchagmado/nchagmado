@@ -1,6 +1,6 @@
 ### Jacob Tagnan
 
-https://img.shields.io/github/followers/nchagmado
+![](https://img.shields.io/github/followers/nchagmado)
 
 
 **nchagmado/nchagmado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
