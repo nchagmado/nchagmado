@@ -1,17 +1,10 @@
 ### Jacob Tagnan
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://img.shields.io/github/followers/nchagmado)
-
-
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/nchagmado?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
-[![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+[![GitHub Badge](https://img.shields.io/github/followers/nchagmado?style=social)](https://img.shields.io/github/followers/nchagmado)
+[![Twitter Badge](https://img.shields.io/twitter/follow/nchagmado?style=social)](https://twitter.com/nchagmado)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=6_opgaUAAAAJ&hl=en)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/jacob-tagnan-817994174)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)]
 
 Dr. Qiusheng Wu is an Associate Professor in the Department of Geography & Sustainability at the University of Tennessee, Knoxville. In addition, he holds positions as an Amazon Visiting Academic and a Senior Research Fellow at the United Nations University. Specializing in geospatial data science and open-source software development, Dr. Wu is particularly focused on leveraging big geospatial data and cloud computing to study environmental changes, with an emphasis on surface water and wetland inundation dynamics. He is the creator of several open-source packages designed for advanced geospatial analysis and visualization, including geemap, leafmap, and segment-geospatial. For a closer look at his open-source contributions, please visit his GitHub repositories at <https://github.com/opengeos>.
 
