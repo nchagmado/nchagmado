@@ -4,8 +4,8 @@
 **nchagmado/nchagmado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Education
-- (Florida State University, Tallahassee)(https://www.fsu.edu/)
-- (Kwame Nkrumah University of Science and Technology (KNUST), Kumasi)(https://www.knust.edu.gh/)
+- [Florida State University, Tallahassee](https://www.fsu.edu/)
+- [Kwame Nkrumah University of Science and Technology (KNUST), Kumasi](https://www.knust.edu.gh/)
   
 ## Projects
 
