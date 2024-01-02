@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/nchagmado?style=social)](https://img.shields.io/github/followers/nchagmado)
 [![Twitter Badge](https://img.shields.io/twitter/follow/nchagmado?style=social)](https://twitter.com/nchagmado)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=6_opgaUAAAAJ&hl=en)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/jacob-tagnan-817994174)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jacob-tagnan-817994174)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)]
 
 Jacob Nchagmado Tagnan is a Master's student at the Florida State University in the Department of Geography, where he assists in teaching the "World Geography" course and other research activities. His research interest is in Geographic Information Systems, Artificial Intelligence (AI), GeoAI, Spatial Analysis, Urban and Regional Planning, Remote Sensing, Environmental Management, Climate Change and Disaster Management, Transport and Spatial Accessibilities, and Urban Growth Management
